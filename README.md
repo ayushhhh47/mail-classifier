@@ -1,0 +1,2 @@
+# email-classifier
+email-classifier (ZenInbox) - Intelligent Email Task Manager. It is a React-based web app that transforms your Gmail inbox into a prioritized task list. Powered by the Google Gemini API, it analyzes emails to extract deadlines, urgency, and importance, categorizing tasks into "Urgent," "Important," and "Later." With a searchable navbar, pagination, and date sorting.
