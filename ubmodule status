@@ -1,0 +1,10 @@
+[33mcommit 8d7ad4caf073cfd1306a5fa60343ccf9188f53a4[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: ayushhhh47 <udeniaayush@gmail.com>
+Date:   Sun Jun 15 12:20:01 2025 +0530
+
+    Initial commit for email-classifier with cleaned backend and frontend
+
+.gitignore
+README.md
+backend
+frontend
